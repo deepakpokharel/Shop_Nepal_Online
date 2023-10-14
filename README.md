@@ -1,5 +1,5 @@
 
-# Shop Nepal - E-commerce Website
+# Shop Nepal ( E-commerce Website )
 
 ## Overview
 
@@ -8,7 +8,7 @@ Welcome to Shop Nepal, an e-commerce website created to showcase a stunning user
 ## [ Shop Nepal Screenshot ]
 ![shop2](https://github.com/deepakpokharel/Shop_Nepal_Online/assets/120373098/e9150c0e-aa65-40df-9087-cca84cea71cf)
 
-## Features
+## Features 
 
 - **Product Showcase:** A visually appealing product catalog displaying various items available for purchase.
 - **Product Details:** Detailed product pages with descriptions, prices, and high-quality images.
